@@ -38,7 +38,11 @@ def findVendor(index):
         8: "Ashoka Innovators for the Public",
         9: "Institute for Agriculture and Trade Policy (IATP)",
         10: "One Acre Fund",
-        11: "Ecoagriculture Partners"
+        11: "Ecoagriculture Partners",
+        12: "Red Table Grape",
+        13: "Table Grapes from Italy",
+        14: "Fresh Seedless Grapes of Indian Origin",
+        15: "Sultani Grapes from Turkey"
     }
     return vendors.get(index, "NA")
     # coursesArray.append(courses.get(index, "NA"))
